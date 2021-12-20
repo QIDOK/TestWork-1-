@@ -1,0 +1,14 @@
+div.news-detail
+{
+	word-wrap: break-word;
+	padding: 5px;
+	font-size: 15px;
+	border: 3px dashed;
+    background: linear-gradient(0deg, #57cdc7, #a1b9efc7);
+}
+div.news-detail img.detail_picture
+{
+	float: right;
+	margin-left: 10px;
+	border-radius: 2em;
+}
